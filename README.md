@@ -6,4 +6,4 @@ Confusion Matrix:
 
 
 Using the model to judge unseen tweets:
-![img2]()
+![img2](https://github.com/Morikky/Natural-Language-Processing-for-sentiment-analysis/blob/main/Plots/judge_unseen_tweets.png)
