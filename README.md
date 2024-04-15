@@ -6,3 +6,4 @@ Confusion Matrix:
 
 
 Using the model to judge unseen tweets:
+![img2]()
