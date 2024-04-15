@@ -3,6 +3,7 @@ Tweets are automatically judged as positive or negative. To train a model to do 
 
 
 Confusion Matrix:
+
 ![img1](https://github.com/Morikky/Natural-Language-Processing-for-sentiment-analysis/blob/main/Plots/confusion_matrix.png)
 
 
